@@ -1,0 +1,9 @@
+
+CRUD dataset for legal
+https://huggingface.co/datasets/theatticusproject/cuad-qa
+
+research_paper for crud dataset
+https://arxiv.org/abs/2103.06268
+
+github repo for theatticusproject
+https://github.com/TheAtticusProject/cuad
